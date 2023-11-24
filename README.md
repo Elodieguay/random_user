@@ -35,9 +35,9 @@ Build with : REACT.JS - TAILWIND
 ## 🛠 Getting Started
 <br>
 <p>
-Clone down this repository.
-`git clone git@github.com:Elodieguay/random_user.git`
-</p>
+Clone down this repository.</p>
+` git clone git@github.com:Elodieguay/random_user.git `
+
 <div id="prerequisites">
 
 ### Prerequisites:
