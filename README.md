@@ -2,7 +2,7 @@
   
 # Random users from API 
 
-Create a functioning project that accesses and displays API data from the Random User Generator.
+Create a functioning project that accesses and displays API data from the Random User Generator. Always responsive !
 
 
 <p>
