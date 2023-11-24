@@ -74,3 +74,4 @@ Only 8 cards are displayed on the main page and you can navigate into pagination
 
 ----
 
+![image](https://github.com/Elodieguay/random_user/assets/123971120/744cf07e-1e3b-4553-abec-9598db2c80cf)
