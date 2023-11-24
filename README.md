@@ -2,7 +2,7 @@
   
 # Random users from API 
 
-Create a functioning project that accesses and displays API data from the Random User Generator. Always responsive !
+Create a responsive functioning project that accesses and displays API data from the Random User Generator.
 
 
 <p>
@@ -70,6 +70,8 @@ You can filter the users by gender female or male.<br>
 You can choose to order the users by ascending date of birth or descending date of birth.<br>
 3)Pagination: <br>
 Only 8 cards are displayed on the main page and you can navigate into pagination to see the others.<br>
+4)Responsive:
+The application is responsive
 </div>
 
 ----
