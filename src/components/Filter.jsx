@@ -4,7 +4,6 @@ const Filter = ({setSelectedGender, setOrderByBirth}) => {
     
     const changeGender = (event) =>{
         setSelectedGender(event.target.value)
-        console.log("setSelectedGender", setSelectedGender);
     }
 
     const changeOrderByBirth = (event) =>{
